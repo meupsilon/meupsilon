@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🔭 I’m currently working on Avito
-- 👯 I’m looking to collaborate on data analytics
-- ⚡ Fun fact: I like growing plants
+### Привет 👋
+- 🔭 Я работаю в Avito
+- 👯 Ищу задачи в аналитике данных
+- ⚡ Забавный факт: Я люблю выращивать растения
 <!--
 **meupsilon/meupsilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
