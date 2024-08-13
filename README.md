@@ -1,7 +1,7 @@
 ### Привет 👋
-- 🔭 Я работаю в Avito
-- 👯 Ищу задачи в аналитике данных
-- ⚡ Забавный факт: Я люблю выращивать растения
+- 🔭 Я работаю в Wildberries
+
+
 <!--
 **meupsilon/meupsilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
